@@ -1,0 +1,25 @@
+{
+  "name": "imgxr",
+  "version": "1.0.0",
+  "description": "Simple image uploading server",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write **/*.{js,ts,jsx,tsx,json}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevAndromeda/imgxr.git"
+  },
+  "keywords": [
+    "imgxr"
+  ],
+  "author": "DevAndromeda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevAndromeda/imgxr/issues"
+  },
+  "homepage": "https://github.com/DevAndromeda/imgxr#readme",
+  "dependencies": {
+    "prettier": "^2.4.1"
+  }
+}
